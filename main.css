@@ -1,0 +1,23 @@
+h1 {
+  background-color: grey;
+  text-align: center;
+  font-family: "Avant Garde";
+  color: red;
+ }
+ 
+ li {
+  padding: 50px, 0;
+  background-color: red;
+  color: black;
+  font-family: "Avant Garde";
+ }
+ 
+ .active {
+  background-color: grey;
+  color: red;
+ }
+ 
+ li:hover {
+  background-color: black;
+  color: white;
+ }
